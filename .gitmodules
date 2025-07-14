@@ -1,6 +1,10 @@
 [submodule "02-bases"]
 	path = 02-bases
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_bases.git
-[submodule "gifs-app"]
-	path = gifs-app
+[submodule "03-gifs-app"]
+	path = 03-gifs-app
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_gifapp.git
+[submodule "04-country-app"]
+	path = 04-country-app
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_countryApp.git
+
