@@ -8,3 +8,6 @@
 	path = 04-country-app
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_countryApp.git
 
+[submodule "05-pipes-app"]
+	path = 05-pipes-app
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_PipesApp.git
