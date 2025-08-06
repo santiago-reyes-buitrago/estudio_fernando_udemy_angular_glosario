@@ -11,3 +11,6 @@
 [submodule "05-pipes-app"]
 	path = 05-pipes-app
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_PipesApp.git
+[submodule "06-reactive-forms-app"]
+	path = 06-reactive-forms-app
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_ReactiveForms.git
