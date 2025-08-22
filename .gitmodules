@@ -17,3 +17,6 @@
 [submodule "07-lifecycle-hooks"]
 	path = 07-lifecycle-hooks
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_LyfecycleHooks.git
+[submodule "08-teslo-shop"]
+	path = 08-teslo-shop
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_TesloShop.git
