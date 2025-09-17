@@ -20,3 +20,6 @@
 [submodule "08-teslo-shop"]
 	path = 08-teslo-shop
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_TesloShop.git
+[submodule "09-my-dashboard"]
+	path = 09-my-dashboard
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_V19_dashboard.git
