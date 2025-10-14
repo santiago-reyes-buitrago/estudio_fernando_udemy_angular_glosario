@@ -23,3 +23,6 @@
 [submodule "09-my-dashboard"]
 	path = 09-my-dashboard
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_V19_dashboard.git
+[submodule "10-maps-app"]
+	path = 10-maps-app
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_mapsApp.git
