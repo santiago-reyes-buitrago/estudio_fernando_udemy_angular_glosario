@@ -26,3 +26,6 @@
 [submodule "10-maps-app"]
 	path = 10-maps-app
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_mapsApp.git
+[submodule "11-calculator-zoneless"]
+	path = 11-calculator-zoneless
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_calculator_zoneless.git
