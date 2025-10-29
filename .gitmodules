@@ -29,3 +29,6 @@
 [submodule "11-calculator-zoneless"]
 	path = 11-calculator-zoneless
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_calculator_zoneless.git
+[submodule "12-pokemon-ssr"]
+	path = 12-pokemon-ssr
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_pokemon_ssr.git
