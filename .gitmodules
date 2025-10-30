@@ -32,3 +32,6 @@
 [submodule "12-pokemon-ssr"]
 	path = 12-pokemon-ssr
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_pokemon_ssr.git
+[submodule "14-company-app"]
+	path = 14-company-app
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_monorepo.git
