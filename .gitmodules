@@ -35,3 +35,6 @@
 [submodule "14-company-app"]
 	path = 14-company-app
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_monorepo.git
+[submodule "15-my-workspace"]
+	path = 15-my-workspace
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_workspace.git
