@@ -38,3 +38,6 @@
 [submodule "15-my-workspace"]
 	path = 15-my-workspace
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_workspace.git
+[submodule "13-github-issues"]
+	path = 13-github-issues
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_tanlstack_query.git
