@@ -1,43 +1,6 @@
-[submodule "02-bases"]
-	path = 02-bases
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_bases.git
-[submodule "03-gifs-app"]
-	path = 03-gifs-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_gifapp.git
-[submodule "04-country-app"]
-	path = 04-country-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_countryApp.git
-
-[submodule "05-pipes-app"]
-	path = 05-pipes-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_PipesApp.git
-[submodule "06-reactive-forms-app"]
-	path = 06-reactive-forms-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_ReactiveForms.git
-[submodule "07-lifecycle-hooks"]
-	path = 07-lifecycle-hooks
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_LyfecycleHooks.git
-[submodule "08-teslo-shop"]
-	path = 08-teslo-shop
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_TesloShop.git
-[submodule "09-my-dashboard"]
-	path = 09-my-dashboard
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_V19_dashboard.git
-[submodule "10-maps-app"]
-	path = 10-maps-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_mapsApp.git
-[submodule "11-calculator-zoneless"]
-	path = 11-calculator-zoneless
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_calculator_zoneless.git
-[submodule "12-pokemon-ssr"]
-	path = 12-pokemon-ssr
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_pokemon_ssr.git
-[submodule "14-company-app"]
-	path = 14-company-app
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_monorepo.git
-[submodule "15-my-workspace"]
-	path = 15-my-workspace
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_workspace.git
-[submodule "13-github-issues"]
-	path = 13-github-issues
-	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_tanlstack_query.git
+[submodule "basico"]
+	path = basico
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_basic.git
+[submodule "pro"]
+	path = pro
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_pro.git
